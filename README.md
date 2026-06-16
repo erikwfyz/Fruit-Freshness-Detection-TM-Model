@@ -90,7 +90,7 @@ The dataset was prepared to expose the model to a variety of visual conditions a
 
 ## 📈 Model Performance
 
-The model achieved strong classification performance during evaluation within the Google Teachable Machine environment.
+The model achieved strong classification performance during evaluation within the Google Teachable Machine environment which is >= 100%.
 
 ### Factors Affecting Accuracy
 
