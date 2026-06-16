@@ -150,20 +150,6 @@ The model achieved strong classification performance during evaluation within th
 
 ---
 
-## 📚 Learning Outcomes
-
-Through this project, I gained hands-on experience in:
-
-- Machine Learning fundamentals
-- Dataset collection and preparation
-- Image classification
-- Model training and evaluation
-- TensorFlow.js deployment
-- AI-powered web applications
-- Computer Vision concepts
-
----
-
 ## 👨‍💻 Author
 
 **ErikFyz**
