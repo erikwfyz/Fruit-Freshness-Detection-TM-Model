@@ -1,4 +1,5 @@
-#🍎 Fruit Freshness Detection AI Model
+##
+🍎 Fruit Freshness Detection AI Model
 
 An image classification system developed using Google Teachable Machine that automatically identifies whether a fruit is fresh or rotten based on visual characteristics.
 
