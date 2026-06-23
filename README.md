@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://teachablemachine.withgoogle.com/models/OAEeyczuA/">
+  <a href="https://teachablemachine.withgoogle.com/models/1i9qWvrwv/">
     <img src="https://img.shields.io/badge/View-Live_Model-success?style=for-the-badge" alt="Live Model">
   </a>
   <img src="https://img.shields.io/badge/Machine%20Learning-Project-blue?style=for-the-badge" alt="Machine Learning Project">
@@ -40,7 +40,7 @@ The project was developed using **Google Teachable Machine** and trained on a da
 
 **Access the trained model here:**
 
-👉 https://teachablemachine.withgoogle.com/models/OAEeyczuA/
+👉 https://teachablemachine.withgoogle.com/models/1i9qWvrwv/
 
 ---
 
